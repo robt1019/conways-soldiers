@@ -1,0 +1,9 @@
+My extension follows the same structure as my basic
+
+I've added chained hashing to make searching the boards quicker
+
+I've also included the ability to find vertically mirrored solutions and print the mirrored version as the solution
+
+As a warning, don't try searching for anything on the top row, as this has been slowing my computer down a lot
+
+It's quite a bit quicker for the second row now though
